@@ -1,0 +1,56 @@
+.hide
+{
+	display: none;
+}
+
+button
+{
+	outline: none!important;
+}
+
+html, body 
+{
+	margin: 0;
+	padding: 0;
+	clear: both;
+
+	width: 100%;
+}
+
+.block
+{
+	margin-top: 32px;
+}
+
+footer 
+{
+	position: fixed;
+	bottom: 5px;
+	right: 10px;
+	color: #666;
+}
+
+.row
+{
+
+}
+
+	.row .middle
+	{
+		/*background: orange;	*/
+	}
+
+	.row .right
+	{
+		/*background: blue;*/
+	}	
+
+	.roulette-wrap
+	{
+
+	}
+		.roulette-wrap img
+		{
+			-webkit-transition: -webkit-transform 2.5s ease-out;
+		}
+
